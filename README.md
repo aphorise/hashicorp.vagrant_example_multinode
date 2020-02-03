@@ -1,4 +1,4 @@
-# hashicorp.vagrant-multinode
+# hashicorp.vagrant Example Multi-node HTTP Servers
 This is a simple demo of a multi node [Vagrant](https://github.com/hashicorp/vagrant) setup running locally using an [Ubuntu http-server](https://app.vagrantup.com/aphorise/boxes/ubuntu16-nginx) image from [vagrantcloud](https://app.vagrantup.com/boxes/search); server instances are expected to **port-forwarded** to your local host on the ranges of **58081..N**
 
 ```
